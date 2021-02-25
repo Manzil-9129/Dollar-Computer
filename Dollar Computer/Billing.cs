@@ -18,7 +18,7 @@ namespace Dollar_Computer
         }
 
         private void Billing_Load(object sender, EventArgs e)
-        {   //Variables
+        {  
 
             textBox1.Text = Program.cc._name;
             textBox2.Text = Program.cc._model;

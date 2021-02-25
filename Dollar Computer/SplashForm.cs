@@ -23,5 +23,6 @@ namespace Dollar_Computer
             this.Hide();
             Splashtimer.Enabled = false;
         }
+
     }
 }
